@@ -65,6 +65,7 @@
 ### b. Hướng dẫn 
 
 - Cách chơi đơn giản , giao diện dễ sử dụng.
+
     ![alt text](img/1.png)
     
 - Thiết lập 2 chế độ chơi với máy và đối kháng
