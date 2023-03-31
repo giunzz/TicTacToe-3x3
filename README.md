@@ -69,6 +69,7 @@
     ![alt text](img/1.png)
     
 - Thiết lập 2 chế độ chơi với máy và đối kháng
+
     ![alt text](img/2.png)
 
 ## IV- Công dụng & Ý nghĩa
