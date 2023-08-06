@@ -1,9 +1,5 @@
 # LẬP TRÌNH TRÒ CHƠI CỜ CARO 3X3
 
-## **GIỚI THIỆU**
-
-- Lazzy again 
-
 ## **NỘI DUNG**
 
 - [I - Hình thức sản phẩm](#i---hình-thức-sản-phẩm)
